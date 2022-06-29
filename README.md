@@ -34,7 +34,7 @@ query GetLessons {
   }
 ```
 
-You can view the project online [here!](https://pretty-yogurt-08d.notion.site/Maratona-Explorer-d876326a9ece4faa909bb71259c047c0)
+You can view the project online [here!](https://ignite-lab-orpin.vercel.app/)
 
 ## References
 
